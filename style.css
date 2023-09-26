@@ -1,7 +1,7 @@
 body {
-  background-color: #444444;
-  color: #dddddd;
-  font-family: Arial, Helvetica, sans-seriff;
+  background-color: #7FFFD4;
+  color: #8B008B;
+  font-family: Courier;
   margin: 10% 20%
 }
 
@@ -11,3 +11,23 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
 }
+
+h1 {
+  padding: 40px;
+  font-family: Courier;
+  font-size: 60px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 20px;
+ 
+}
+
+h6 {
+  font-size: 15px;
+}
+
