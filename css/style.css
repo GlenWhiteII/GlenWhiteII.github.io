@@ -379,7 +379,7 @@ body {
     font-size: 55%;
   }
 }
-@media (max-width: 990px) {
+@media (max-width: 991px) {
   .header {
     padding: 2rem 3%;
   }
@@ -390,6 +390,9 @@ body {
 
   .footer {
     padding: 2rem 3%;
+  }
+  .portfolio {
+    padding-bottom: 7rem;
   }
 }
 @media (max-width: 768px) {
@@ -451,4 +454,8 @@ body {
   .portfolio-container {
     grid-template-columns: repeat(2, 1);
   }
+}
+
+@media (max-width: 615px) {
+  grid-template-columns: 1fr;
 }
